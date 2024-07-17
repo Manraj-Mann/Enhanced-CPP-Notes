@@ -14,7 +14,7 @@ These values can be calculated at the compile time so to mark them so we can use
 
 +> constants = 1. compile time , 2. Run time 
 
-1. compile time : value must be known at compiler time
+1. compile time : value must be determined at compiler time
 
 // Const integral variables with a constant expression initializer
 // are compile-time constants:
