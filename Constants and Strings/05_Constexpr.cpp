@@ -46,10 +46,12 @@ This method has two challenges.
     2. Function parameters cannot be declared as constexpr, since their initialization value isn’t determined until runtime.
 
 */
-int main() 
-{
+int main() {
+    
     // const double p {10.0}; error: the value of 'p' is not usable in a constant expression
-    constexpr double p{0.01};// works fine since value of p is now known at compile time and gurantted to compiler;
+    // constexpr double p{0.01};// works fine since value of p is now known at compile time and gurantted to compiler;
+    
+    const int p{1}; // also works fine
     constexpr double num {p+1};
     
     // success because the intergral type is treated as compile time constant
