@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string_view>
 
 /*
 
@@ -34,10 +34,62 @@ In C++20, you can also use the std::ssize() function to get the length of a std:
 
 9. Constexpr strings : If you try to define a constexpr std::string, your compiler will probably generate an error.This happens because constexpr std::string isn’t supported at all in C++17 or earlier, and only works in very limited cases in C++20/23. If you need constexpr strings, use std::string_view instead.
 
+10. std::string_view C++17 : To address the issue with std::string being expensive to initialize (or copy), C++17 introduced std::string_view (which lives in the <string_view> header). std::string_view provides read-only access to an existing string (a C-style string, a std::string, or another std::string_view) without making a copy. Read-only means that we can access and use the value being viewed, but we can not modify it.
+
+// str provides read-only access to whatever argument is passed in
+void printSV(std::string_view str) // now a std::string_view
+{
+    std::cout << str << '\n';
+}
+
+int main()
+{
+    std::string_view s{ "Hello, world!" }; // now a std::string_view
+    printSV(s);
+
+    return 0;
+}
+
+Prefer std::string_view over std::string when you need a read-only string, especially for function parameters.
+
+
+11 . Some facts about string_view : 
+
+1. One of the neat things about a std::string_view is how flexible it is. A std::string_view object can be initialized with a C-style string, a std::string, or another std::string_view
+2. Both a C-style string and a std::string will implicitly convert to a std::string_view. Therefore, a std::string_view parameter will accept arguments of type C-style string, a std::string, or std::string_view:
+3. std::string_view will not implicitly convert to std::string
+    However, if this is desired, we have two options:
+
+    1. Explicitly create a std::string with a std::string_view initializer (which is allowed, since this will rarely be done unintentionally)
+    2. Convert an existing std::string_view to a std::string using static_cast
+4. Assigning a new string to a std::string_view causes the std::string_view to view the new string. It does not modify the prior string being viewed in any way.
+
+    std::string name { "Alex" };
+    std::string_view sv { name }; // sv is now viewing name
+    std::cout << sv << '\n'; // prints Alex
+
+    sv = "John"; // sv is now viewing "John" (does not change name)
+    std::cout << sv << '\n'; // prints John
+
+    std::cout << name << '\n'; // prints Alex
+
+5. constexpr std::string_view: Unlike std::string, std::string_view has full support for constexpr:
+
+    constexpr std::string_view s{ "Hello, world!" }; // s is a string symbolic constant
+    std::cout << s << '\n'; // s will be replaced with "Hello, world!" at compile-time
+
+This makes constexpr std::string_view the preferred choice when string symbolic constants are needed.
 
 */
+
+void printSV(std::string_view str) // now a std::string_view
+{
+    std::cout << str << '\n';
+}
 int main()
 {
 
+    std::string_view s{ "Hello, world!" }; // now a std::string_view
+    printSV(s);
     return 0;
 }
