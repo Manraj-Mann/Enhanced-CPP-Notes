@@ -4,4 +4,4 @@
 
 ## 4. Chapter 4 - Strings and Constants
 
-## 4. Chapter 6 - Bit Manipulation
+## 6. Chapter 6 - Bit Manipulation
