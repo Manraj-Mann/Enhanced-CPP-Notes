@@ -14,5 +14,6 @@
     - 7.1. [User defined namespaces](./Scope,%20Duration,%20and%20Linkage/001_namespaces.cpp)
     - 7.2. [Local Variables ](./Scope,%20Duration,%20and%20Linkage/002_localVariables.cpp)
     - 7.3. [Global Variables](./Scope,%20Duration,%20and%20Linkage/003_globalVariables.cpp)
-    - 7.4. []()
+    - 7.4. [Variable Shadowing](./Scope,%20Duration,%20and%20Linkage/004_variableShadowing.cpp)
     - 7.5. []()
+    - 7.6. []()
