@@ -2,7 +2,7 @@
 
 /*
     Note : 
-
+    
     1. As a reminder, a naming collision occurs when two identical identifiers are introduced into the same scope, and the compiler can’t disambiguate which one to use.When this happens, compiler or linker will produce an error because they do not have enough information to resolve the ambiguity.
 
     2. Defining your own namespaces : 
