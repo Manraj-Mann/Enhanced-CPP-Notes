@@ -16,4 +16,6 @@
     - 7.3. [Global Variables](./Scope,%20Duration,%20and%20Linkage/003_globalVariables.cpp)
     - 7.4. [Variable Shadowing](./Scope,%20Duration,%20and%20Linkage/004_variableShadowing.cpp)
     - 7.5. [Internal Linkage](./Scope,%20Duration,%20and%20Linkage/005_internalLinkage.cpp)
-    - 7.6. []()
+    - 7.6. [External Linkage](./Scope,%20Duration,%20and%20Linkage/006_externalLinkage.cpp)
+    - 7.7. [Evil of Global Variables](./Scope,%20Duration,%20and%20Linkage/007_evilOfGlobalVariables.cpp)
+    - 7.8. []()
