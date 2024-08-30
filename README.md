@@ -20,3 +20,5 @@
     - 7.7. [Evil of Global Variables](./Scope,%20Duration,%20and%20Linkage/007_evilOfGlobalVariables.cpp)
     - 7.8. [Using Global varuables in Multiple Files](./Scope,%20Duration,%20and%20Linkage/008_usingGlobalVariablesInMultipleFiles.cpp)
     - 7.8. [Static Local Variables](./Scope,%20Duration,%20and%20Linkage/009_staticLocal.cpp)
+    - 7.9. [Summary of Duration and Linkage](./Scope,%20Duration,%20and%20Linkage/010_Summary.cpp)
+    - 8.0. []()
