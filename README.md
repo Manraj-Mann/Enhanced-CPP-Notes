@@ -21,4 +21,5 @@
     - 7.8. [Using Global varuables in Multiple Files](./Scope,%20Duration,%20and%20Linkage/008_usingGlobalVariablesInMultipleFiles.cpp)
     - 7.8. [Static Local Variables](./Scope,%20Duration,%20and%20Linkage/009_staticLocal.cpp)
     - 7.9. [Summary of Duration and Linkage](./Scope,%20Duration,%20and%20Linkage/010_Summary.cpp)
-    - 8.0. []()
+    - 8.0. [Using Directive and Declaration](./Scope,%20Duration,%20and%20Linkage/011_usingDirectiveAndDeclaration.cpp)
+    - 8.1. [Unnamed Namespace](./Scope,%20Duration,%20and%20Linkage/012_unamedNamespaces.cpp)
