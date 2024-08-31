@@ -23,3 +23,10 @@
     - 7.9. [Summary of Duration and Linkage](./Scope,%20Duration,%20and%20Linkage/010_Summary.cpp)
     - 7.10. [Using Directive and Declaration](./Scope,%20Duration,%20and%20Linkage/011_usingDirectiveAndDeclaration.cpp)
     - 7.11. [Unnamed Namespace](./Scope,%20Duration,%20and%20Linkage/012_unamedNamespaces.cpp)
+
+8. [Chapter 8 - Control Flow ](./Control%20Flow/)
+
+    - 8.1. [Conditionals](./Control%20Flow/001_Conditionals.cpp)
+    - 8.2. [Loops](./Control%20Flow/002_Loops.cpp)
+    - 8.3. [Halts](./Control%20Flow/003_Halts.cpp)
+    
