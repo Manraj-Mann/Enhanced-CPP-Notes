@@ -30,3 +30,9 @@
     - 8.2. [Loops](./Control%20Flow/002_Loops.cpp)
     - 8.3. [Halts](./Control%20Flow/003_Halts.cpp)
     - 8.4. [Summary](./Control%20Flow/Summary.cpp)
+
+9. [Chapter 9 - Error Detection & Handling](./Error%20Detection%20and%20Handling/)
+
+    - 9.1. [Testing](./Error%20Detection%20and%20Handling/001_testing.cpp)
+    - 9.1. [Semantic Errors ](./Error%20Detection%20and%20Handling/002_semanticErrors.cpp)
+    - 9.1. [Assertions](./Error%20Detection%20and%20Handling/003_assertion.cpp)
