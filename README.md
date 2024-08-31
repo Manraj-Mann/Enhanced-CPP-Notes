@@ -36,3 +36,16 @@
     - 9.1. [Testing](./Error%20Detection%20and%20Handling/001_testing.cpp)
     - 9.1. [Semantic Errors ](./Error%20Detection%20and%20Handling/002_semanticErrors.cpp)
     - 9.1. [Assertions](./Error%20Detection%20and%20Handling/003_assertion.cpp)
+
+10. [Chapter 10 - Type Conversion, Type Aliases, and Type Deduction](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/)
+
+    - 10.1. [Implicit Conversion](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/001_implicitConversion.cpp)
+    - 10.2. [Floating and Integer Promotions](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/002_floatingPointAndIntergralPromotions.cpp)
+    - 10.3. [Numeric Conversions](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/003_numericConversions.cpp)
+    - 10.4. [Narrowing Conversions](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/004_narrowingConversions.cpp)
+    - 10.5. [Arithmetic Conversions](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/005_arithmeticConversions.cpp)
+    - 10.6. [Type Aliasing](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/006_typeAliasing.cpp)
+    - 10.7. [Type Deduction](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/007_typeDeduction.cpp)
+    - 10.8. [Type Deduction for Functions](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/008_typeDeductionsForFunctions.cpp)
+    - 10.9. [Summary](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/009_summary.cpp)
+    - 10.10. [Explicit Casting](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/010_explicitCasting.cpp)
