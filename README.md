@@ -55,4 +55,5 @@
     - 11.1. [Function Overloading](./Function%20Overloading%20and%20Function%20Templates/001_functionOverloading.cpp)
     - 11.2. [Function Overload Differentiation](./Function%20Overloading%20and%20Function%20Templates/002_functionOverloadDifferentiation.cpp)
     - 11.3. [Overload Resolution](./Function%20Overloading%20and%20Function%20Templates/003_overloadResolution.cpp)
+    - 11.4. [Deleting Functions](./Function%20Overloading%20and%20Function%20Templates/004_deletingFunctions.cpp)
     
