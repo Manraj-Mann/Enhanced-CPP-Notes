@@ -63,4 +63,9 @@
     - 11.9. [Non-Type Template Parameters](./Function%20Overloading%20and%20Function%20Templates/009_nonTypeTemplateParameters.cpp)
     - 11.10. [Summary](./Function%20Overloading%20and%20Function%20Templates/010_Summary.cpp)
 
-    
+12. [Compound Types: References and Pointers](./Compound%20Types%20-%20References%20and%20Pointers/)
+
+    - 12.1. [Introduction to Compound Types](./Compound%20Types%20-%20References%20and%20Pointers/001_compoundTypes.cpp)
+    - 12.2. [Value Categories](./Compound%20Types%20-%20References%20and%20Pointers/002_valueCategories.cpp)
+    - 12.3. [L-Value References](./Compound%20Types%20-%20References%20and%20Pointers/003_lvalueRefrences.cpp)
+    - 12.4. []()
