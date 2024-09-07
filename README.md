@@ -58,3 +58,9 @@
     - 11.4. [Deleting Functions](./Function%20Overloading%20and%20Function%20Templates/004_deletingFunctions.cpp)
     - 11.5. [Default Arguments](./Function%20Overloading%20and%20Function%20Templates/005_defaultArguments.cpp)
     - 11.6. [Function Templates](./Function%20Overloading%20and%20Function%20Templates/006_functionTemplates.cpp)
+    - 11.7. [Function Template Instantiation](./Function%20Overloading%20and%20Function%20Templates/007_functionTemplateInstantiation.cpp)
+    - 11.8. [Function templates with multiple template types](./Function%20Overloading%20and%20Function%20Templates/008_functionTemplateMultipleTemplateTypes.cpp)
+    - 11.9. [Non-Type Template Parameters](./Function%20Overloading%20and%20Function%20Templates/009_nonTypeTemplateParameters.cpp)
+    - 11.10. [Summary](./Function%20Overloading%20and%20Function%20Templates/010_Summary.cpp)
+
+    
