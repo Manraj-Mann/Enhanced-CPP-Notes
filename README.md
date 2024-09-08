@@ -69,3 +69,4 @@
     - 12.2. [Value Categories](./Compound%20Types%20-%20References%20and%20Pointers/002_valueCategories.cpp)
     - 12.3. [L-Value References](./Compound%20Types%20-%20References%20and%20Pointers/003_lvalueRefrences.cpp)
     - 12.4. [L-Value Reference to Const](./Compound%20Types%20-%20References%20and%20Pointers/004_lvalueRefToConst.cpp)
+    - 12.5. [Pass L-Value Reference](./Compound%20Types%20-%20References%20and%20Pointers/005_passLValueRef.cpp)
