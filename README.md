@@ -86,3 +86,4 @@
     - 13.2. [Unscoped Enums](./Compound%20Types:%20Enums%20and%20Structs/002_unscopedEnums.cpp)
     - 13.3. [Unscoped Enums Integral Conversion](./Compound%20Types:%20Enums%20and%20Structs/003_unscopedEnumsIntergralConversion.cpp)
     - 13.4. [Converting an enumeration to and from a string](./Compound%20Types:%20Enums%20and%20Structs/004_enumToFromString.cpp)
+    - 13.5. [Overloading IO Operator](./Compound%20Types:%20Enums%20and%20Structs/005_overloadingIO.cpp)
