@@ -79,3 +79,10 @@
     - 12.12. [Type deduction with pointers, references, and const](./Compound%20Types%20-%20References%20and%20Pointers/012_typeDeduction.cpp)
     - 12.13. [std::optional](./Compound%20Types%20-%20References%20and%20Pointers/013_optional.cpp)
     - 12.14. [Summary ](./Compound%20Types%20-%20References%20and%20Pointers/014_summary.cpp)
+
+13. [Compound Types: Enums and Structs](./Compound%20Types:%20Enums%20and%20Structs/)
+
+    - 13.1. [User Defined Data Types](./Compound%20Types:%20Enums%20and%20Structs/001_userDefinedDataTypes.cpp)
+    - 13.2. [Unscoped Enums](./Compound%20Types:%20Enums%20and%20Structs/002_unscopedEnums.cpp)
+    - 13.3. [Unscoped Enums Integral Conversion](./Compound%20Types:%20Enums%20and%20Structs/003_unscopedEnumsIntergralConversion.cpp)
+    - 13.4. [Converting an enumeration to and from a string](./Compound%20Types:%20Enums%20and%20Structs/004_enumToFromString.cpp)
