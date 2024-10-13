@@ -115,4 +115,4 @@
     - 14.13. [Copy Elision](./Object%20Oriented%20Programming/013_copyElision.cpp)
     - 14.14. [Converting constructors and the explicit keyword](./Object%20Oriented%20Programming/014_convertConstructorAndExplicit.cpp)
     - 14.15. [Constexpr aggregates and classes](./Object%20Oriented%20Programming/015_consexprAggregates.cpp)
-    - 14.16. [Summary]()
+    - 14.16. [Summary](./Object%20Oriented%20Programming/016_summary.cpp)
