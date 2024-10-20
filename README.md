@@ -116,3 +116,14 @@
     - 14.14. [Converting constructors and the explicit keyword](./Object%20Oriented%20Programming/014_convertConstructorAndExplicit.cpp)
     - 14.15. [Constexpr aggregates and classes](./Object%20Oriented%20Programming/015_consexprAggregates.cpp)
     - 14.16. [Summary](./Object%20Oriented%20Programming/016_summary.cpp)
+
+15. [More on Classes](./More%20on%20Classes/)
+
+    - 15.1. [this Pointer](./More%20on%20Classes/001_thisPointer.cpp)
+    - 15.2. [Class and Headers](./More%20on%20Classes/002_classAndHeaders.cpp)
+    - 15.3. [Nested Types](./More%20on%20Classes/003_nestedTypes.cpp)
+    - 15.4. [Destructors](./More%20on%20Classes/004_destructors.cpp)
+    - 15.5. [Class templates with member functions](./More%20on%20Classes/005_classTemplatesAndMemberFunctions.cpp)
+    - 15.6. [Static Member Variables](./More%20on%20Classes/006_staticMemberVariables.cpp)
+    - 15.7. [Static Member Functions](./More%20on%20Classes/007_staticMemberFunctions.cpp)
+    
