@@ -126,4 +126,7 @@
     - 15.5. [Class templates with member functions](./More%20on%20Classes/005_classTemplatesAndMemberFunctions.cpp)
     - 15.6. [Static Member Variables](./More%20on%20Classes/006_staticMemberVariables.cpp)
     - 15.7. [Static Member Functions](./More%20on%20Classes/007_staticMemberFunctions.cpp)
-    
+    - 15.8. [Friend non-member Functions](./More%20on%20Classes/008_friendNonMemberFunctions.cpp)
+    - 15.9. [Friend classes and friend member functions](./More%20on%20Classes/009_friendClassAndMemberFunctions.cpp)
+    - 15.10. [Ref Qualifier](./More%20on%20Classes/010_refQualifier.cpp)
+
