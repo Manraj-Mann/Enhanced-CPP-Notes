@@ -129,6 +129,7 @@
     - 15.8. [Friend non-member Functions](./More%20on%20Classes/008_friendNonMemberFunctions.cpp)
     - 15.9. [Friend classes and friend member functions](./More%20on%20Classes/009_friendClassAndMemberFunctions.cpp)
     - 15.10. [Ref Qualifier](./More%20on%20Classes/010_refQualifier.cpp)
+    - 15.11. [Summary](./More%20on%20Classes/011_Summary.cpp)
 
 20. [Functions](./Function%20Pointers/)
 
@@ -139,3 +140,4 @@
     - 20.5. [Ellipses](./Function%20Pointers/005_ellipses.cpp)
     - 20.6. [Lambdas](./Function%20Pointers/006_lambdas.cpp)
     - 20.7. [Lambda Captures](./Function%20Pointers/007_lambdaCaptures.cpp)
+    - 20.8. [Summary](./Function%20Pointers/008_summary.cpp)
