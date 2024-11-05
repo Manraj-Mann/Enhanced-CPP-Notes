@@ -50,7 +50,7 @@
     - 10.9. [Summary](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/009_summary.cpp)
     - 10.10. [Explicit Casting](./Type%20Conversion,%20Type%20Aliases,%20and%20Type%20Deduction/010_explicitCasting.cpp)
 
-11. [Function Overloading and Function Templates](./Function%20Overloading%20and%20Function%20Templates/)
+11. [Chapter 11 - Function Overloading and Function Templates](./Function%20Overloading%20and%20Function%20Templates/)
 
     - 11.1. [Function Overloading](./Function%20Overloading%20and%20Function%20Templates/001_functionOverloading.cpp)
     - 11.2. [Function Overload Differentiation](./Function%20Overloading%20and%20Function%20Templates/002_functionOverloadDifferentiation.cpp)
@@ -63,7 +63,7 @@
     - 11.9. [Non-Type Template Parameters](./Function%20Overloading%20and%20Function%20Templates/009_nonTypeTemplateParameters.cpp)
     - 11.10. [Summary](./Function%20Overloading%20and%20Function%20Templates/010_Summary.cpp)
 
-12. [Compound Types: References and Pointers](./Compound%20Types%20-%20References%20and%20Pointers/)
+12. [Chapter 12 - Compound Types: References and Pointers](./Compound%20Types%20-%20References%20and%20Pointers/)
 
     - 12.1. [Introduction to Compound Types](./Compound%20Types%20-%20References%20and%20Pointers/001_compoundTypes.cpp)
     - 12.2. [Value Categories](./Compound%20Types%20-%20References%20and%20Pointers/002_valueCategories.cpp)
@@ -80,7 +80,7 @@
     - 12.13. [std::optional](./Compound%20Types%20-%20References%20and%20Pointers/013_optional.cpp)
     - 12.14. [Summary ](./Compound%20Types%20-%20References%20and%20Pointers/014_summary.cpp)
 
-13. [Compound Types: Enums and Structs](./Compound%20Types:%20Enums%20and%20Structs/)
+13. [Chapter 13 - Compound Types: Enums and Structs](./Compound%20Types:%20Enums%20and%20Structs/)
 
     - 13.1. [User Defined Data Types](./Compound%20Types:%20Enums%20and%20Structs/001_userDefinedDataTypes.cpp)
     - 13.2. [Unscoped Enums](./Compound%20Types:%20Enums%20and%20Structs/002_unscopedEnums.cpp)
@@ -98,7 +98,7 @@
     - 13.14. [Alias Template](./Compound%20Types:%20Enums%20and%20Structs/014_aliasTemplate.cpp)
     - 13.15. [Summary](./Compound%20Types:%20Enums%20and%20Structs/015_summary.cpp)
 
-14. [Object Oriented Programming](./Object%20Oriented%20Programming/)
+14. [Chapter 14 - Object Oriented Programming](./Object%20Oriented%20Programming/)
 
     - 14.1. [Classes](./Object%20Oriented%20Programming/001_classes.cpp)
     - 14.2. [Member Functions](./Object%20Oriented%20Programming/002_memberFunctions.cpp)
@@ -117,7 +117,7 @@
     - 14.15. [Constexpr aggregates and classes](./Object%20Oriented%20Programming/015_consexprAggregates.cpp)
     - 14.16. [Summary](./Object%20Oriented%20Programming/016_summary.cpp)
 
-15. [More on Classes](./More%20on%20Classes/)
+15. [Chapter 15 - More on Classes](./More%20on%20Classes/)
 
     - 15.1. [this Pointer](./More%20on%20Classes/001_thisPointer.cpp)
     - 15.2. [Class and Headers](./More%20on%20Classes/002_classAndHeaders.cpp)
@@ -131,7 +131,7 @@
     - 15.10. [Ref Qualifier](./More%20on%20Classes/010_refQualifier.cpp)
     - 15.11. [Summary](./More%20on%20Classes/011_Summary.cpp)
 
-20. [Functions](./Function%20Pointers/)
+20. [Chapter 20 - Functions](./Function%20Pointers/)
 
     - 20.1. [Function Pointers](./Function%20Pointers/001_functionPointers.cpp)
     - 20.2. [Stack and Heap](./Function%20Pointers/002_stackAndHeap.cpp)
@@ -142,7 +142,7 @@
     - 20.7. [Lambda Captures](./Function%20Pointers/007_lambdaCaptures.cpp)
     - 20.8. [Summary](./Function%20Pointers/008_summary.cpp)
 
-21. [Operator Overloading](./Operator%20Overloading/)
+21. [Chapter 21 - Operator Overloading](./Operator%20Overloading/)
 
     - 21.1. [Introduction](./Operator%20Overloading/001_intro.cpp)
     - 21.2. [Overloading Arithmetic Operator using Friend Function](./Operator%20Overloading/002_overloadingArithmeticUsingFriend.cpp)
@@ -160,7 +160,7 @@
     - 21.14. [Overloading Function Template and Operators](./Operator%20Overloading/014_overloadingFunctionTemplateAndOperators.cpp)
     - 21.15. [Summary](./Operator%20Overloading/015_summary.cpp)
 
-22. [Move Semantics and Smart Pointers](./Move%20Semantics%20and%20Smart%20Pointers/)
+22. [Chapter 22 - Move Semantics and Smart Pointers](./Move%20Semantics%20and%20Smart%20Pointers/)
 
     - 22.1. [Introduction to smart pointers and move semantics](./Move%20Semantics%20and%20Smart%20Pointers/001_introduction.cpp)
     - 22.2. [R-Values](./Move%20Semantics%20and%20Smart%20Pointers/002_rvalues.cpp)
