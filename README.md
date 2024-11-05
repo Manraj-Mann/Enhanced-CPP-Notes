@@ -162,14 +162,14 @@
 
 22. [Move Semantics and Smart Pointers](./Move%20Semantics%20and%20Smart%20Pointers/)
 
-    22.1. [Introduction to smart pointers and move semantics](./Move%20Semantics%20and%20Smart%20Pointers/001_introduction.cpp)
-    22.2. [R-Values](./Move%20Semantics%20and%20Smart%20Pointers/002_rvalues.cpp)
-    22.3. [Move Constructor and Move Assignment](./Move%20Semantics%20and%20Smart%20Pointers/003_moveConstructorAndAssignment.cpp)
-    22.4. [std::move](./Move%20Semantics%20and%20Smart%20Pointers/004_std::move.cpp)
-    22.5. [Unique Pointer ( std::unique_ptr )](./Move%20Semantics%20and%20Smart%20Pointers/005_uniquePointer.cpp)
-    22.6. [Shared Pointer ( std::shared_ptr )](./Move%20Semantics%20and%20Smart%20Pointers/006_sharedPointer.cpp)
-    22.7. [Circular Dependency Issues with weak and shared pointer](./Move%20Semantics%20and%20Smart%20Pointers/007_circularDependencyIssue.cpp)
-    22.8. [Summary](./Move%20Semantics%20and%20Smart%20Pointers/008_summary.cpp)
+    - 22.1. [Introduction to smart pointers and move semantics](./Move%20Semantics%20and%20Smart%20Pointers/001_introduction.cpp)
+    - 22.2. [R-Values](./Move%20Semantics%20and%20Smart%20Pointers/002_rvalues.cpp)
+    - 22.3. [Move Constructor and Move Assignment](./Move%20Semantics%20and%20Smart%20Pointers/003_moveConstructorAndAssignment.cpp)
+    - 22.4. [std::move](./Move%20Semantics%20and%20Smart%20Pointers/004_std::move.cpp)
+    - 22.5. [Unique Pointer ( std::unique_ptr )](./Move%20Semantics%20and%20Smart%20Pointers/005_uniquePointer.cpp)
+    - 22.6. [Shared Pointer ( std::shared_ptr )](./Move%20Semantics%20and%20Smart%20Pointers/006_sharedPointer.cpp)
+    - 22.7. [Circular Dependency Issues with weak and shared pointer](./Move%20Semantics%20and%20Smart%20Pointers/007_circularDependencyIssue.cpp)
+    - 22.8. [Summary](./Move%20Semantics%20and%20Smart%20Pointers/008_summary.cpp)
 
 
 
