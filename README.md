@@ -171,6 +171,14 @@
     - 22.7. [Circular Dependency Issues with weak and shared pointer](./Move%20Semantics%20and%20Smart%20Pointers/007_circularDependencyIssue.cpp)
     - 22.8. [Summary](./Move%20Semantics%20and%20Smart%20Pointers/008_summary.cpp)
 
+23. [Chapter 23 - Object Relationships](./Object%20Relationships/)
 
+    - 23.1. [Object relationships](./Object%20Relationships/001_introduction.cpp)
+    - 23.2. [Composition](./Object%20Relationships/002_composition.cpp)
+    - 23.3. [Aggregation](./Object%20Relationships/003_aggregation.cpp)
+    - 23.4. [Association](./Object%20Relationships/004_associations.cpp)
+    - 23.5. [Dependencies](./Object%20Relationships/005_dependency.cpp)
+    - 23.6. [Container classes](./Object%20Relationships/006_containerClass.cpp)
+    - 23.7. [std::initializer_list](./Object%20Relationships/007_initializerList.cpp)
 
-
+24. [Chapter 24 - Inheritance](./Inheritance/)
