@@ -182,3 +182,13 @@
     - 23.7. [std::initializer_list](./Object%20Relationships/007_initializerList.cpp)
 
 24. [Chapter 24 - Inheritance](./Inheritance/)
+
+    - 24.1. [Introduction](./Inheritance/001_introduction.cpp)
+    - 24.2. [Basics of Inheritance](./Inheritance/002_basicsOfInheritance.cpp)
+    - 24.3. [Order of Construction](./Inheritance/003_orderOfConstruction.cpp)
+    - 24.4. [Construction and Initialization of Derviced Classes](./Inheritance/004_constructionAndInitializationOfClasses.cpp)
+    - 24.5. [Inheritance and Access Specifiers](./Inheritance/005_inheritanceAndAccessSpecifiers.cpp)
+    - 24.6. [Adding New Functionality to Derived Classes](./Inheritance/006_addingNewFunctionalityToDerivedClasses.cpp)
+    - 24.7. [Calling inherited functions and overriding behavior](./Inheritance/007_callingInheritedFunctionsAndOverriding.cpp)
+    - 24.8. [Hiding inherited functionality](./Inheritance/008_hidingInhertedFunctionality.cpp)
+    - 24.9. [Multiple Inheritance](./Inheritance/009_multipleInheritance.cpp)
