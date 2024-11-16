@@ -190,3 +190,5 @@ A comprehensive collection of C++ programming concepts and examples.
 - [V-Table](./Virtual%20Functions/006_vtable.cpp)
 - [Pure virtual functions, abstract base classes, and interface classes](./Virtual%20Functions/007_pureVirtualAndAbstract.cpp)
 - [Object Slicing](./Virtual%20Functions/009_objectSlicing.cpp)
+- [Dynamic Casting](./Virtual%20Functions/010_dynamicCasting.cpp)
+- [Printing Inherited Classes](./Virtual%20Functions/011_printingInhertitedClasses.cpp)
