@@ -180,3 +180,13 @@ A comprehensive collection of C++ programming concepts and examples.
 - [Calling Inherited Functions](./Inheritance/007_callingInheritedFunctionsAndOverriding.cpp)
 - [Hiding Inherited Functionality](./Inheritance/008_hidingInhertedFunctionality.cpp)
 - [Multiple Inheritance](./Inheritance/009_multipleInheritance.cpp)
+
+### [Chapter 25 - Virtual Functions](./Virtual%20Functions/) 🔄
+- [Pointers and references to the base class of derived objects](./Virtual%20Functions/001_pointersAndRefOfBaseClass.cpp)
+- [Virtual Functions & Polymorphism](./Virtual%20Functions/002_virtualFunctionsAndPolymosphism.cpp)
+- [The override and final specifiers, and covariant return types](./Virtual%20Functions/003_overrideAndFinalSpecifiers.cpp)
+- [Virtual destructors, virtual assignment, and overriding virtualization](./Virtual%20Functions/004_virtualDestructorAssignment.cpp)
+- [Early And Late Binding](./Virtual%20Functions/005_earlyAndLateBinding.cpp)
+- [V-Table](./Virtual%20Functions/006_vtable.cpp)
+- [Pure virtual functions, abstract base classes, and interface classes](./Virtual%20Functions/007_pureVirtualAndAbstract.cpp)
+- [Object Slicing](./Virtual%20Functions/009_objectSlicing.cpp)
