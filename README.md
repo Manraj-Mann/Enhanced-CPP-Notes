@@ -192,3 +192,11 @@ A comprehensive collection of C++ programming concepts and examples.
 - [Object Slicing](./Virtual%20Functions/009_objectSlicing.cpp)
 - [Dynamic Casting](./Virtual%20Functions/010_dynamicCasting.cpp)
 - [Printing Inherited Classes](./Virtual%20Functions/011_printingInhertitedClasses.cpp)
+
+### [Chapter 26 - Templates and Classes](./Templates%20and%20Classes/)
+- [Template Classes](./Templates%20and%20Classes/001_templateClasses.cpp)
+- [Template non-type parameters](./Templates%20and%20Classes/002_templateNonTypeParameters.cpp)
+- [Function template specialization](./Templates%20and%20Classes/003_functionTemplateSpecialization.cpp)
+- [Class template specialization](./Templates%20and%20Classes/004_classTemplateSpecialization.cpp)
+- [Partial template specialization](./Templates%20and%20Classes/005_partialTemplateSpecialization.cpp)
+- [Partial template specialization for pointers](./Templates%20and%20Classes/006_pointerPartialTemplateSpec.cpp)
