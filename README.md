@@ -200,3 +200,7 @@ A comprehensive collection of C++ programming concepts and examples.
 - [Class template specialization](./Templates%20and%20Classes/004_classTemplateSpecialization.cpp)
 - [Partial template specialization](./Templates%20and%20Classes/005_partialTemplateSpecialization.cpp)
 - [Partial template specialization for pointers](./Templates%20and%20Classes/006_pointerPartialTemplateSpec.cpp)
+
+### [Chapter 27 - Exceptions](./Exceptions/) 🆘
+- [Need for exceptions](./Exceptions/001_needForExceptions.cpp)
+- [Basics of Exception Handling](./Exceptions/002_basicExceptionHandling.cpp)
