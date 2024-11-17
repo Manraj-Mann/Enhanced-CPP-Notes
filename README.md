@@ -204,3 +204,11 @@ A comprehensive collection of C++ programming concepts and examples.
 ### [Chapter 27 - Exceptions](./Exceptions/) 🆘
 - [Need for exceptions](./Exceptions/001_needForExceptions.cpp)
 - [Basics of Exception Handling](./Exceptions/002_basicExceptionHandling.cpp)
+- [Exceptions, functions, and stack unwinding](./Exceptions/003_exceptionFunctionsAndStackUnwinding.cpp)
+- [Uncaught exceptions and catch-all handlers](./Exceptions/004_UnhandledAndCatchAll.cpp)
+- [Exceptions, classes, and inheritance](./Exceptions/005_exceptionsClassesAndInheritance.cpp)
+- [Rethrowing exceptions](./Exceptions/006_rethrowingExceptions.cpp)
+- [Function try blocks](./Exceptions/007_functionTryBlocks.cpp)
+- [Exception dangers and downsides](./Exceptions/008_exceptionDangers.cpp)
+- [Exception specifications and noexcept](./Exceptions/009_exceptionSpecifications.cpp)
+- [std::move_if_noexcept](./Exceptions/010_moveifnoexcept.cpp)
