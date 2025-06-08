@@ -119,6 +119,34 @@
 
         2. For r value : 
 
+            T = Widget
+
+            paramtype = std::remove_reference_t<widget> &t ====> widget & t
+
+            widget&& forward(widget &t ) noexcept
+            {
+                return static_cast<widget&&>(t);
+            }
+
+    4. Difference in signatures : 
+
+
+        i) std::move - 
+
+            template<typename T>
+            std::remove_reference_t<T>&& move(T&& t )
+            {
+                return static_cast<std::remove_reference_t<T>&&> (t);
+            }
+
+        ii) std::forward - 
+
+            template<typename T>
+            T&& forward(std::remove_reference_t<T>& t)
+            {
+                return static_cast<T&&>(t);
+            }
+
 */
 
 /*
